@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66776292393",
+    "project_id": "onlineparkingbooking-84255",
+    "storage_bucket": "onlineparkingbooking-84255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66776292393:android:b4f31c43da834fe746d038",
+        "android_client_info": {
+          "package_name": "com.example.online_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQM6c9C9rjDK22nHsMraSi6_dDqBl_8Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
